@@ -1,0 +1,45 @@
+{
+    "courses": [
+        {
+            "id":1,
+            "title":"Guital for Beginners",
+            "slug":"guital-for-beginners",
+            "description":"This is a course for beginners who want to learn how to play the guitar.",
+            "price":100,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"https://via.placeholder.com/150"
+            
+        },
+        {
+            "id":2,
+            "title":"Piano for Beginners",
+            "slug":"piano-for-beginners",
+            "description":"This is a course for beginners who want to learn how to play the piano.",
+            "price":150,
+            "instructor":"Jane Doe",
+            "isFeatured":true,
+            "image":"https://via.placeholder.com/150"
+        },
+        {
+            "id":3,
+            "title":"Drums for Beginners",
+            "slug":"drums-for-beginners",
+            "description":"This is a course for beginners who want to learn how to play the drums.",
+            "price":200,
+            "instructor":"John Doe",
+            "isFeatured":true,
+            "image":"https://via.placeholder.com/150"
+        },
+        {
+            "id":4,
+            "title":"Violin for Beginners",
+            "slug":"violin-for-beginners",
+            "description":"This is a course for beginners who want to learn how to play the violin.",
+            "price":250,
+            "instructor":"Jane Doe",
+            "isFeatured":true,
+            "image":"https://via.placeholder.com/150"
+        }    
+    ]
+}
